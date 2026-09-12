@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.quotation-wrapper {
+    width: 100vw;
+    overflow-x: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
